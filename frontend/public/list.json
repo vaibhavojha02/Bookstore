@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "name": "story book",
+    "title":"Sure, here's a randomly generated paragraph consisting of approximately 50 words",
+    "price":0,
+    "cateogary":"free",
+    "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1713027981~exp=1713031581~hmac=1c1fcc59cfa7bf3e26f76a82b8def04a1a0351fde906d6c9cc670beb24cc45d7&w=740"
+
+  },
+  {
+    "id": 2,
+    "name":"Horror",
+    "title":"Sure, here's a randomly generated paragraph consisting of approximately 50 words",
+    "price":0,
+    "cateogary":"free",
+    "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1713027981~exp=1713031581~hmac=1c1fcc59cfa7bf3e26f76a82b8def04a1a0351fde906d6c9cc670beb24cc45d7&w=740"
+
+  },
+  {
+    "id": 3,
+    "name": "fiction",
+    "title":"Sure, here's a randomly generated paragraph consisting of approximately 50 words",
+    "price":0,
+    "cateogary":"free",
+    "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1713027981~exp=1713031581~hmac=1c1fcc59cfa7bf3e26f76a82b8def04a1a0351fde906d6c9cc670beb24cc45d7&w=740"
+
+  },
+  {
+    "id": 4,
+    "name": "Novels",
+    "title":"Sure, here's a randomly generated paragraph consisting of approximately 50 words",
+    "price":0,
+    "cateogary":"free",
+    "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1713027981~exp=1713031581~hmac=1c1fcc59cfa7bf3e26f76a82b8def04a1a0351fde906d6c9cc670beb24cc45d7&w=740"
+
+  },
+  {
+    "id": 5,
+    "name": "SKills",
+    "title":"Sure, here's a randomly generated paragraph consisting of approximately 50 words",
+    "price":0,
+    "cateogary":"free",
+    "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1713027981~exp=1713031581~hmac=1c1fcc59cfa7bf3e26f76a82b8def04a1a0351fde906d6c9cc670beb24cc45d7&w=740"
+
+  },
+  {
+    "id": 6,
+    "name": "technology",
+    "title":"Sure, here's a randomly generated paragraph consisting of approximately 50 words",
+    "price":0,
+    "cateogary":"free",
+    "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1713027981~exp=1713031581~hmac=1c1fcc59cfa7bf3e26f76a82b8def04a1a0351fde906d6c9cc670beb24cc45d7&w=740"
+
+  },
+  {
+    "id": 7,
+    "name": "story book",
+    "title":"Sure, here's a randomly generated paragraph consisting of approximately 50 words",
+    "price":0,
+    "cateogary":"free",
+    "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1713027981~exp=1713031581~hmac=1c1fcc59cfa7bf3e26f76a82b8def04a1a0351fde906d6c9cc670beb24cc45d7&w=740"
+
+  },
+  {
+    "id": 8,
+    "name": "story book",
+    "title":"Sure, here's a randomly generated paragraph consisting of approximately 50 words",
+    "price":0,
+    "cateogary":"free",
+    "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1713027981~exp=1713031581~hmac=1c1fcc59cfa7bf3e26f76a82b8def04a1a0351fde906d6c9cc670beb24cc45d7&w=740"
+
+  },
+  {
+    "id": 9,
+    "name": "story book",
+    "title":"Sure, here's a randomly generated paragraph consisting of approximately 50 words",
+    "price":0,
+    "cateogary":"free",
+    "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1713027981~exp=1713031581~hmac=1c1fcc59cfa7bf3e26f76a82b8def04a1a0351fde906d6c9cc670beb24cc45d7&w=740"
+
+  },
+  {
+    "id": 10,
+    "name": "story book",
+    "title":"Sure, here's a randomly generated paragraph consisting of approximately 50 words",
+    "price":300,
+    "cateogary":"premium",
+    "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1713027981~exp=1713031581~hmac=1c1fcc59cfa7bf3e26f76a82b8def04a1a0351fde906d6c9cc670beb24cc45d7&w=740"
+
+  },
+  {
+    "id": 11,
+    "name": "story book",
+    "title":"Sure, here's a randomly generated paragraph consisting of approximately 50 words",
+    "price":100,
+    "cateogary":"premium",
+    "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1713027981~exp=1713031581~hmac=1c1fcc59cfa7bf3e26f76a82b8def04a1a0351fde906d6c9cc670beb24cc45d7&w=740"
+
+  }
+
+]
