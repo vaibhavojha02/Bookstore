@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vaibhavojha02/Bookstore.git"
+    "url": "git+https://github.com/vaibhavojha02/bookstore.git"
   },
   "author": "vaibhav ojha",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/vaibhavojha02/Bookstore/issues"
+    "url": "https://github.com/vaibhavojha02/bookstore/issues"
   },
-  "homepage": "https://github.com/vaibhavojha02/Bookstore#readme",
+  "homepage": "https://github.com/vaibhavojha02/bookstore#readme",
   "dependencies": {
     "bcrypt": "^5.1.1",
     "bcryptjs": "^2.4.3",
