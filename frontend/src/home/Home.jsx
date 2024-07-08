@@ -9,7 +9,7 @@ const Home = () => {
     <>
        <Navbar/>
        <Banner/>
-      <Freebook/>
+       <Freebook/>
       <Footer/>
     </>
   )
